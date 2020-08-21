@@ -20,7 +20,7 @@
 
 基于[MiniProxy](https://github.com/joshdick/miniProxy)，目前包含未知的Bug，版本：v1.0.2。
 
-使用方法：在框内输入**完整**的链接（如google.com.hk,https://google.com都算是完整的链接），点击“前往”即可访问。
+使用方法：在框内输入**完整**的链接（如google.com.hk,https://google.com 都算是完整的链接），点击“前往”即可访问。
 
 目前有Bug暂时访问不了的网站：
 
