@@ -33,8 +33,6 @@
 
 
 
-记住本用户ID：[1161250](https://aerfaying.com/Users/1161250) `妖妖六妖二五菱`
-
 官方QQ群：[1141582898](https://jq.qq.com/?_wv=1027&k=OyEq0tZK) 禁广告
 
 **一些有用的网站：**
